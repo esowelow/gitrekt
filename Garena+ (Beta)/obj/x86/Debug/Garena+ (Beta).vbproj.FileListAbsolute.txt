@@ -1,0 +1,23 @@
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\bin\Debug\Garena+ (Beta).exe
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\bin\Debug\Garena+ (Beta).pdb
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\bin\Debug\Garena+ (Beta).xml
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\obj\x86\Debug\Garena___Beta_.Main.resources
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\obj\x86\Debug\Garena___Beta_.Resources.resources
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).vbproj.GenerateResource.Cache
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).exe
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).xml
+C:\Users\PC1\AppData\Local\Temporary Projects\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).pdb
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\bin\Debug\Garena+ (Beta).exe
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\bin\Debug\Garena+ (Beta).pdb
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\bin\Debug\Garena+ (Beta).xml
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena___Beta_.Main.resources
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena___Beta_.Resources.resources
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).vbproj.GenerateResource.Cache
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).exe
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).xml
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).pdb
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\bin\Debug\Garena+ (Beta).exe.manifest
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\bin\Debug\Garena+ (Beta).application
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).exe.manifest
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\obj\x86\Debug\Garena+ (Beta).application
+D:\Users\Documents\Visual Studio 2010\Projects\Garena+ (Beta)\Garena+ (Beta)\bin\Debug\MySql.Data.dll
